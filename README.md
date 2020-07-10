@@ -51,9 +51,9 @@ avg_info = table_content[1]
 ```
 # Create a dictionary to store data
 ```python
-   salary_info={}
-    salary_info['median_salary']=median_info.td.string
-    salary_info['avg_salary']=avg_info.td.string
+salary_info={}
+salary_info['median_salary']=median_info.td.string
+salary_info['avg_salary']=avg_info.td.string
 ```
 # Run function and print result
 ```python
