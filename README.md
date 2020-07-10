@@ -1,5 +1,7 @@
 # Beautifulsoup
-a simple example to show how to use beautifulsoup library to extract data from web
+A simple example to show how to use beautifulsoup library to extract data from web.
+
+I want to get income information by entering ZIP code. The data extract from https://www.incomebyzipcode.com/
 
 # Install beautiful soup
 ```bash
