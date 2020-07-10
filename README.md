@@ -2,6 +2,7 @@
 Two simple examples to show how to use beautifulsoup library to extract data from web.
 
 First example, getting income information by entering ZIP code. The data extract from https://www.incomebyzipcode.com/
+
 Second example, getting covid-19 real-time data by entering country name. The data extract from https://www.worldometers.info/coronavirus/country/
 
 # Install beautiful soup
